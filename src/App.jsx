@@ -6,6 +6,7 @@ import Programs from './Component/Programs/Programs'
 // import Title from './Component/Title/Title'
 import Programm from './Component/Programm/Programm'
 import Footer from './Component/Footer/Footer'
+// import Copyright from './Component/Copyright/Copyright'
 import Copyright from './Component/Copyright/Copyright'
 import Consultation from './Component/Consultation/Consultation'
 
@@ -27,3 +28,5 @@ function App() {
 }
 
 export default App
+
+
