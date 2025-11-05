@@ -7,6 +7,7 @@ import Programs from './Component/Programs/Programs'
 import Programm from './Component/Programm/Programm'
 import Footer from './Component/Footer/Footer'
 import Copyright from './Component/Copyright/Copyright'
+import Consultation from './Component/Consultation/Consultation'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
      <Hero/>
      <Programs/>
      <Programm/>
+     <Consultation/>
      <Footer/>
      <Copyright/>
      

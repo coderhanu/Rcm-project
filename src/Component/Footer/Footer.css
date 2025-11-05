@@ -127,10 +127,19 @@
 
 .footer-container {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-wrap: wrap;
   gap: 241px;
 }
+
+/* .contact-info p
+ { */
+    /* display: flex; */
+    /* align-items: center;
+    gap: 10px;
+    margin: 8px 0;
+    font-size: 15px;
+} */
 
 /* LEFT SECTION */
 .footer-left {

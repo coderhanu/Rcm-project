@@ -103,16 +103,23 @@ const Footer = () => {
           <h3>Contact</h3>
 
           <div className="contact-info">
-            <p><strong>Phone:</strong><br />+91 882-690-0551            
-            <br />+91 882-690-0556</p>
+            <p><strong>Phone: +91 882-690-0551</strong><br />            
+            <br /></p>
             {/* <p><strong>FAX:</strong><br />+1 307-288-6459</p> */}
-            <p><strong>Email:</strong><br />info@nexg.in</p>
-            <p><strong>Address:</strong><br />Nex-G Solutions LLC<br />30 N Gould ST STE R<br />Sheridan WY, 82801</p>
+            <p><strong>Email: info@nexg.in</strong><br /><br /></p>
+            <p><strong>Address: Nex-G Solutions LLC <br />30 N Gould ST STE R <br />Sheridan WY, 82801 </strong><br /><br /><br /></p>
           </div>
-        </div>
 
+          {/* <div className="contact-info">
+            <p><strong>Phone:</strong><br />+91 882-690-0551            
+            <br />+91 882-690-0556</p> */}
+            {/* <p><strong>FAX:</strong><br />+1 307-288-6459</p> */}
+            {/* <p><strong>Email: info@nexg.in</strong><br />info@nexg.in</p>
+            <p><strong>Address:</strong><br />Nex-G Solutions LLC<br />30 N Gould ST STE R<br />Sheridan WY, 82801</p>
+          </div> */}
+          
+        </div>
       </div>
-  
     </footer>
   );
 };
