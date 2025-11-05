@@ -10,3 +10,8 @@ const Copyright = () => {
 }
 
 export default Copyright
+
+
+
+
+// this is copyright section
