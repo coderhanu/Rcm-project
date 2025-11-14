@@ -7,7 +7,7 @@ import Programs from './Component/Programs/Programs'
 import Programm from './Component/Programm/Programm'
 import Footer from './Component/Footer/Footer'
 // import Copyright from './Component/Copyright/Copyright'
-import Copyright from './Component/Copyright/Copyright'
+import Copyright from './Component/Copyright'
 import Consultation from './Component/Consultation/Consultation'
 
 function App() {
